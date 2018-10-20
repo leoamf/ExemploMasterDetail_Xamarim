@@ -1,0 +1,16 @@
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/bin/Debug/netstandard2.0/ExemploMasterDetail.deps.json
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/bin/Debug/netstandard2.0/ExemploMasterDetail.dll
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/bin/Debug/netstandard2.0/ExemploMasterDetail.pdb
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/ExemploMasterDetail.csprojAssemblyReference.cache
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/SecondScreen.xaml.g.cs
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/ExemploMasterDetail.csproj.CoreCompileInputs.cache
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/ExemploMasterDetail.AssemblyInfoInputs.cache
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/ExemploMasterDetail.AssemblyInfo.cs
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/ExemploMasterDetail.dll
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/ExemploMasterDetail.pdb
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/Menu.xaml.g.cs
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/ThirdScreen.xaml.g.cs
+/Users/aluno/Desktop/ExemploMasterDetail_Xamarim/ExemploMasterDetail/ExemploMasterDetail/obj/Debug/netstandard2.0/FirstScreen.xaml.g.cs

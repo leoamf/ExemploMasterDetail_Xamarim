@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{2754158F-5B96-4A90-98AB-E0EE38A96E13}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExemploMasterDetail/MainPage.xaml">
+    <Files>
+      <File FileName="ExemploMasterDetail/MainPage.xaml" Line="4" Column="38" />
+      <File FileName="ExemploMasterDetail/MainPage.xaml.cs" Line="14" Column="35" />
+      <File FileName="ExemploMasterDetail/Menu.xaml" Line="3" Column="6" />
+      <File FileName="ExemploMasterDetail/Menu.xaml.cs" Line="12" Column="35" />
+      <File FileName="ExemploMasterDetail/SecondScreen.xaml" Line="4" Column="8" />
+      <File FileName="ExemploMasterDetail/SecondScreen.xaml.cs" Line="1" Column="1" />
+      <File FileName="ExemploMasterDetail/ThirdScreen.xaml" Line="4" Column="29" />
+      <File FileName="ExemploMasterDetail/ThirdScreen.xaml.cs" Line="16" Column="1" />
+      <File FileName="ExemploMasterDetail/FirstScreen.xaml" Line="6" Column="15" />
+      <File FileName="ExemploMasterDetail/FirstScreen.xaml.cs" Line="14" Column="9" />
+      <File FileName="ExemploMasterDetail/obj/Debug/netstandard2.0/Menu.xaml.g.cs" Line="1" Column="1" />
+      <File FileName="ExemploMasterDetail/App.xaml" Line="5" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ExemploMasterDetail.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExemploMasterDetail.Android PreferredExecutionTarget="Android.Android_Accelerated_Oreo" />
+</Properties>

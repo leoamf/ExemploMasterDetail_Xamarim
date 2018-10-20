@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="ExemploMasterDetail.Menu">
+     
+    <StackLayout VerticalOptions="Center " HorizontalOptions="Center">
+        <Button Text="First" HorizontalOptions="CenterAndExpand" Clicked="Handle_Clicked_1"></Button>
+    
+        <Button Text="Second" HorizontalOptions="CenterAndExpand"  Clicked="Handle_Clicked_1"></Button>
+    
+        <Button Text="Third" HorizontalOptions="CenterAndExpand"  Clicked="Handle_Clicked_1"></Button>
+    </StackLayout> 
+</ContentPage>
