@@ -4,7 +4,16 @@
              Title="First">
     
     <ContentPage.Content>
-        
-        <Label Style="{StaticResource EstiloLabel}" Text="First"></Label>
+        <StackLayout x:Name="stack">
+            <Slider Minimum="0" Maximum="200" x:Name="slider" ></Slider>
+            
+            <Label Style="{StaticResource EstiloLabel}" 
+                    BindingContext="{x:Reference slider}"
+                   Text="{x:Binding Value}" />
+            
+            
+             <Label Style="{StaticResource EstiloLabel}" 
+                    Text="{x:Binding Path=Value, Source={x:Reference slider}}" />
+         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
