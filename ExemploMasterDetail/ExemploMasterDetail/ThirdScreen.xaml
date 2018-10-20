@@ -4,6 +4,6 @@
              Title="Third">
     
     <ContentPage.Content>
-        <Label Style="{StaticResource EstiloLabel}" Text="Third"></Label>
+        <Label Style="{StaticResource EstiloLabel2}" Text="Third"></Label>
     </ContentPage.Content>
 </ContentPage>

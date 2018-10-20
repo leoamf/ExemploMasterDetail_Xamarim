@@ -8,5 +8,14 @@
             <Setter Property="HorizontalOptions" Value="Center"/>
 
         </Style>
+        <Style x:Key="EstiloLabel2" TargetType="Label" BasedOn="{StaticResource EstiloLabel}">
+            <Setter Property="HorizontalOptions" Value="End"/>
+        </Style>
+        <Style  TargetType="Button">
+             <Setter Property="TextColor" Value="Red"/>
+            <Setter Property="VerticalOptions" Value="Center"/>
+            <Setter Property="HorizontalOptions" Value="Center"/>
+
+        </Style>
      </Application.Resources>
 </Application>
