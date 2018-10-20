@@ -16,16 +16,16 @@ namespace ExemploMasterDetail
         {
             var obj = sender as Button;
             if( obj.Text == "Third"){
-                ((MasterDetailPage)this.Parent).Detail = new ThirdScreen();
+                ((MasterDetailPage)this.Parent).Detail = new NavigationPage( new ThirdScreen());
                 ((MasterDetailPage)this.Parent).IsPresented = false;
 
             }
             else if (obj.Text == "Second"){
-                ((MasterDetailPage)this.Parent).Detail = new SecondScreen();
+                ((MasterDetailPage)this.Parent).Detail = new NavigationPage(new SecondScreen());
                 ((MasterDetailPage)this.Parent).IsPresented = false;
             }
             else{
-                ((MasterDetailPage)this.Parent).Detail = new FirstScreen();
+                    ((MasterDetailPage)this.Parent).Detail = new NavigationPage(new FirstScreen());
                 ((MasterDetailPage)this.Parent).IsPresented = false;
 
             }
